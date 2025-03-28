@@ -4,6 +4,8 @@
 
 *An open-source, sensorimotor learning system following the principles of the neocortex.*
 
+git版本管理测试
+
 [![](https://github.com/thousandbrainsproject/tbp.monty/actions/workflows/monty.yml/badge.svg)](https://github.com/thousandbrainsproject/tbp.monty/actions/workflows/monty.yml)
 
 This repository contains the first implementation of a **sensorimotor learning system** from the **Thousand Brains Project at Numenta**. We lovingly call it **Monty** after Vernon Mountcastle, who proposed cortical columns as a repeating functional unit across the neocortex.
